@@ -19,7 +19,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **Student** at FPT University, exploring advancements in Artificial Intelligence and software engineering.
+- 🎓 **Student** at FPT University, exploring advancements in Artificial Intelligence.
 - 📄 **Published Author**: [View My Research Paper](https://doi.org/10.1145/3654522.3654524) in the ACM Digital Library.
 - 💡 Passionate about **AI-driven solutions**, **security systems**, and **innovative software development**.
 - 🌱 Currently diving deeper into **machine learning**, **data science**, and **advanced AI applications**.
